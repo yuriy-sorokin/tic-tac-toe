@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "TicTacToe\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "symfony/console": "^5.4"
+  }
+}
